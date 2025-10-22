@@ -1,4 +1,14 @@
-Maine Coon
+<!doctype html>
+<html lang=”da”>
+ <head>
+ <meta charset=”utf-8”>
+ <title>Dokument titel</title>
+ <style>
+ </style>
+ </head>
+ <body>
+
+<h1> Maine Coon </h1>
 - 10 kæmpefacts om verdens største huskat KAT
 Er Maine Coon i famlie med vaskebjørnen, og var det vikingerne, der bragte den til Maine i USA? Her er 10 fakta om den majestætisk udsende katterace, der kan se frygtindgydende ud, men i virkeligheden er en af de mest kærlige katteracer.
 Af: Mikkel Hede, 22. september 2017
@@ -32,3 +42,5 @@ De lyde, en Maine Coon frembringer, er noget for sig. De fleste katte har et lid
 Læs også: Populære navne til katte og hunde
 10. Maine Coon rekorder
 Den længste kat nogensinde er i følge Guiness World Records Maine Coon'en Stewie, der er blevet målt til 123 cm fra næsetip til halespids. Den tungeste Maine Coon, der nogensinde har været på vægten, vejede 15,9 kilo.
+ </body>
+</html>
